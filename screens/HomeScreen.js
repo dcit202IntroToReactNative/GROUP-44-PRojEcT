@@ -140,8 +140,7 @@ export default function HomeScreen() {
                 </Text>
                 {/* weather icon */}
                 <View className="flex-row justify-center">
-                  <Image 
-                    // source={{uri: 'https:'+current?.condition?.icon}} 
+                  <Image  
                     source={weatherImages[current?.condition?.text || 'other']} 
                     className="w-52 h-52" />
                   
@@ -201,7 +200,6 @@ export default function HomeScreen() {
                           style={{backgroundColor: theme.bgBlue(0.15)}}
                         >
                           <Image 
-                            // source={{uri: 'https:'+item?.day?.condition?.icon}}
                             source={weatherImages[item?.day?.condition?.text || 'other']}
                               className="w-11 h-11" />
                           <Text className="text-white">{dayName}</Text>
