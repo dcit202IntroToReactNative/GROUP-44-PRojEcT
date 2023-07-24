@@ -13,7 +13,7 @@ MEMBERS IDs
 9. 
 10. 
 # Weather App
-
+![Image](./assets/photo_2023-07-24_11-32-04.jpg)
 ## Get Started
 
 install dev dependencies
