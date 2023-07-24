@@ -22,13 +22,13 @@ install dev dependencies
 
 ## Then
 
-Run The app
+Run The App
 
 ### `npm start` or `yarn start`
 
 Runs your app in development mode.
 
-Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
+Open it on your phone in the [Expo app](https://expo.io) to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
 
 #### `npm run ios` or `yarn run ios`
 
@@ -77,8 +77,8 @@ The application shall only retrieve weather data for locations supported by the 
 Assumptions and Dependencies:
 The application assumes that the user has a stable internet connection.
 The application depends on the availability and accuracy of weather data provided by the OPENWEATHERMAP API.
-OTHER DETAILED INFORMATION CHALLENGES FACED Challenges encountered during the development process included issues with integrating certain features into the application, as well as difficulties with debugging the code. We were able to overcome these challenges by breaking down the problem into smaller parts and working on each piece individually. We also utilized online resources and consulted with other developers in the community to find solutions to certain issues.
+OTHER DETAILED INFORMATION CHALLENGES FACED Challenges encountered during the development process included issues with integrating ceintegrating certain features into the application and difficulties. We were able to overcome these challenges by breaking down the problem into smaller parts and working on each piece individually. We also utilized online resources and consulted with other developers in the community to find solutions to certain issues.
 
-FUTURE PLANS Our future plans for the project include adding additional functionality to the application, such as the ability to integrate with other platforms and services. We also plan to continue improving the user experience and making the application more intuitive and user-friendly. Additionally, we are exploring opportunities for monetization and potential partnerships with other companies in the space.
+FUTURE PLANS Our plans for the project include adding additional functionality to the application, such as the ability to integrate with other platforms and services. We also plan to continue improving the user experience and making the application more intuitive and user-friendly. Additionally, we are exploring opportunities for monetization and potential partnerships with other companies in the space.
 
-UNIQUE FEATURE One unique feature of the Weather application is that it contains a variety of locations to check for weather conditions. This means that users can access weather information for multiple cities and regions around the world, making it a useful tool for travellers or anyone who wants to stay informed about weather conditions in different locations. Additionally, the application uses real-time data to provide users with accurate and up-to-date weather information, ensuring that they always have the most current information available. Finally, the application also features an intuitive and user-friendly interface, making it easy for users to access the information they need quickly and efficiently.
+UNIQUE FEATURE One unique feature of the Weather application is that it contains a variety of locations to check for weather conditions. This means that users can access weather information for multiple cities and regions around the world, making it a useful tool for travellers or anyone who wants to stay informed about weather conditions in different locations. Additionally, the application uses real-time data to provide users with accurate and up-to-date weather information, ensuring they always have the most current information. Finally, the application also features an intuitive and user-friendly interface, making it easy for users to access the information they need quickly and efficiently.
