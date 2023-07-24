@@ -1,3 +1,4 @@
+/*importing necessary dependencies*/
 import { View, Text, Image, TextInput, TouchableOpacity, ScrollView } from 'react-native'
 import React, { useCallback, useEffect, useState } from 'react'
 import { SafeAreaView } from 'react-native-safe-area-context';
